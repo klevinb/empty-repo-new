@@ -7,7 +7,7 @@
 	},
 	"name": "empty-repo-new",
 	"description": null,
-	"ver": "24.07.31.1454",
+	"ver": "24.07.31.1455",
 	"enableCICD": true,
 	"excludeTemplateFiles": false,
 	"roles": [],
