@@ -7,7 +7,7 @@
 	},
 	"name": "NEW_DEV_PACKAGE",
 	"description": null,
-	"ver": "24.08.28.5000",
+	"ver": "24.08.28.5001",
 	"enableCICD": true,
 	"excludeTemplateFiles": false,
 	"roles": [],
